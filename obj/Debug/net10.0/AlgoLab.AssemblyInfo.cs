@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AlgoLab")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4fcb2c576b2c9a3df6eb9bf27e4da02db5d6dcdd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5314e70ee24aee0a57b4797515984b9d91fcb5ef")]
 [assembly: System.Reflection.AssemblyProductAttribute("AlgoLab")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AlgoLab")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
